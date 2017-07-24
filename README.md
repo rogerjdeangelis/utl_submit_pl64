@@ -3,7 +3,7 @@ Interface PERL with SAS/WPS
 
     ```  Example Read the last record of a file first (or read a file backwards)  ```
     ```    ```
-    ```  Mainframe IBM MVS / OS-390 can also read s ile backwards  ```
+    ```  Mainframe IBM MVS / OS-390 can also read files backwards  ```
     ```    ```
     ```  I like DWIM perl witht he Padre editor (all free)  ```
     ```  32bit is more stable with Padre (I switched from 64bit Perl?)  ```
